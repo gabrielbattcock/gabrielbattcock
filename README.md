@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielbattcock
 - 👀 I’m studying health data science at London School of Hygiene and Tropical Medicine. 
-- 🌱 I write in Python, R, SQL, a bit of bash and have taken a course in C++ previously. I'm interested in learning Julia in the future. 
+- 🌱 I write in Python, R, SQL, a bit of Shell scripting and have taken a course in C++ previously. I'm interested in learning Julia in the future. 
 - 📫 How to reach me gabrielbattcock@gmail.com or https://www.linkedin.com/in/gabriel-battcock/
 
 <!---
