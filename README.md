@@ -7,7 +7,7 @@ I’m a **Data Scientist** at the **World Food Programme**, with a background in
 💡 My current interests include:
 - **Bayesian modelling**
 - **Large language models (LLMs)**
-- **Applied data science for development and humanitarian response**
+- **Applied data science for public health, development and humanitarian response**
 
 🧠 I code primarily in **Python**, **R**, and **SQL**, with additional experience in **C++**, **JavaScript**, **Julia**, and **Mathematica**.
 
