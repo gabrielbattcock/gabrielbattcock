@@ -5,11 +5,11 @@ I’m a **Data Scientist** at the **World Food Programme**, with a background in
 🔎 I’m passionate about using **data science for the public good** — applying reproducible and transparent methods to answer real-world questions with publicly available data.
 
 💡 My current interests include:
-- **Bayesian modelling**
-- **Large language models (LLMs)**
+- Learning **Large language models (LLMs)**
 - **Applied data science for public health, development and humanitarian response**
+- **Advanced statistics** for nutrition
 
-🧠 I code primarily in **Python**, **R**, and **SQL**, with additional experience in **C++**, **JavaScript**, **Julia**, and **Mathematica**.
+🧠 I code primarily in **Python**, **R**, and **SQL**, with additional experience in **C++** and **Mathematica** and learning **JavaScript** and **Julia**. 
 
 📬 Get in touch:
 - ✉️ gabrielbattcock@gmail.com  
