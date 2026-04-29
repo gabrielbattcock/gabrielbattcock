@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Gabriel Battcock
+## Hello
 
-I’m a **Data Scientist** at the **World Food Programme**, with a background in **Health Data Science** (London School of Hygiene & Tropical Medicine) and **Physics** (University of Manchester).
+I’m Gabriel, a **Data Scientist** at the **World Food Programme**, with a background in **Health Data Science** (London School of Hygiene & Tropical Medicine) and **Physics** (University of Manchester).
 
 🔎 I’m passionate about using **data science for the public good** — applying reproducible and transparent methods to answer real-world questions with publicly available data.
 
