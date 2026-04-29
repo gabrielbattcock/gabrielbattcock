@@ -5,9 +5,11 @@ I’m a **Data Scientist** at the **World Food Programme**, with a background in
 🔎 I’m passionate about using **data science for the public good** — applying reproducible and transparent methods to answer real-world questions with publicly available data.
 
 💡 My current interests include:
-- Learning **Large language models (LLMs)**
-- **Applied data science for public health, development and humanitarian response**
+
+- **Applied data science for public health, policy, development and humanitarian response**
 - **Advanced statistics** for nutrition
+- Working on an app collecting **lost regional dishes in the UK** and beyond
+- **Large language models (LLMs), agentic AI**
 
 🧠 I code primarily in **Python**, **R**, and **SQL**, with additional experience in **C++** and **Mathematica** and learning **JavaScript** and **Julia**. 
 
