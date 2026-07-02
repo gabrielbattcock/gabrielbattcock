@@ -11,7 +11,7 @@ I’m Gabriel, a **Data Scientist** at the **World Food Programme**, with a back
 - Working on an app collecting **lost regional dishes in the UK** and beyond
 - **Large language models (LLMs), agentic AI**
 
-🧠 I code primarily in **Python**, **R**, and **SQL**, with additional experience in **C++** and **Mathematica** and learning **JavaScript** and **Julia**. 
+🧠 I code primarily in **Python**, **R**, and **SQL**, with additional experience in **C++**. 
 
 📬 Get in touch:
 - ✉️ gabrielbattcock@gmail.com  
